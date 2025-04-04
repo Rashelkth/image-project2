@@ -20,7 +20,7 @@ OpenCV
 NumPy
 Matplotlib
 
-###How to Upload Big Files in Git (Safely & Effectively)
+### 2 How to Upload Big Files in Git (Safely & Effectively)
  Step 1: Understand the Git File Size Limit
   GitHub’s hard file size limit is 100 MB per file.
   Git will warn you if a file is over ~50 MB.
